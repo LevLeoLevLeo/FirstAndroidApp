@@ -12,7 +12,7 @@
         <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.393" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.335" />
         <entry key="app/src/main/res/layout/login_fragment.xml" value="0.25" />
-        <entry key="app/src/main/res/layout/registration_fragment.xml" value="0.55" />
+        <entry key="app/src/main/res/layout/registration_fragment.xml" value="0.45" />
       </map>
     </option>
   </component>
